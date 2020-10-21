@@ -16,11 +16,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 
 
-	
-	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
-	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
-	<script type="text/javascript" src="engine0/jquery.js"></script>
-	<!-- End WOWSlider.com HEAD section --></head>
+	</head>
 
   <body >
 
@@ -40,25 +36,6 @@ Panchos a la parrilla, al horno, ahumados, veganos, con especias, ingredientes a
 </p>
 
 </header>
-	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
-	<div id="wowslider-container0">
-	<div class="ws_images"><ul>
-		<li><a href="www.ositos.com"><img src="data0/images/koala.jpg" alt="osito" title="osito" id="wows0_0"/></a></li>
-		<li><img src="data0/images/lighthouse.jpg" alt="Lighthouse" title="Lighthouse" id="wows0_1"/></li>
-		<li><a href="http://wowslider.net"><img src="data0/images/penguins.jpg" alt="image carousel" title="Penguins" id="wows0_2"/></a></li>
-		<li><img src="data0/images/tulips.jpg" alt="Tulips" title="Tulips" id="wows0_3"/></li>
-	</ul></div>
-	<div class="ws_bullets"><div>
-		<a href="#" title="osito"><span><img src="data0/tooltips/koala.jpg" alt="osito"/>1</span></a>
-		<a href="#" title="Lighthouse"><span><img src="data0/tooltips/lighthouse.jpg" alt="Lighthouse"/>2</span></a>
-		<a href="#" title="Penguins"><span><img src="data0/tooltips/penguins.jpg" alt="Penguins"/>3</span></a>
-		<a href="#" title="Tulips"><span><img src="data0/tooltips/tulips.jpg" alt="Tulips"/>4</span></a>
-	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">html5 slider</a> by WOWSlider.com v9.0</div>
-	<div class="ws_shadow"></div>
-	</div>	
-	<script type="text/javascript" src="engine0/wowslider.js"></script>
-	<script type="text/javascript" src="engine0/script.js"></script>
-	<!-- End WOWSlider.com BODY section -->
 
 
 <nav>
